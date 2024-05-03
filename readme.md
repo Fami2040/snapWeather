@@ -29,7 +29,7 @@ _sunny screen for sunny weather condition_
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Natnael-Yigzaw/snapWeather.git
+git clone https://github.com/Fami2040/snapWeather.git
 ```
 
 2. Navigate to the project directory:
